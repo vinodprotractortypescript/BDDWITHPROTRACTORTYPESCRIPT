@@ -30,7 +30,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 42000000,
+              "duration": 31000000,
               "error_message": "AssertionError\n    + expected - actual\n\n    -www.flipkart.com\n    +Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!\n\n    at getBasePromise.then.then.newArgs (D:\\CucumberScripts\\node_modules\\chai-as-promised\\lib\\chai-as-promised.js:302:22)\n    at process._tickCallback (internal/process/next_tick.js:68:7)"
             }
           },
@@ -102,7 +102,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 417000000
+              "duration": 393000000
             },
             "embeddings": [
               {
